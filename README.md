@@ -4,17 +4,10 @@ This repository contains a collection of Power BI reports showcasing data analys
 
 ---
 
-## 📊 Global Superstore Report
-**Description**: Analysis of sales performance and trends across different regions, categories, and segments.  
-**Dataset**: Contains sales, profit, and shipping data.  
-![Global Superstore Report](Images/globalSuperstore.png)
-
----
-
-## 🏏 IPL Report
-**Description**: Insights into Indian Premier League (IPL) data, including team performance, player statistics, and match outcomes.  
-**Dataset**: Includes match details, player stats, and team standings.  
-![IPL Report](Images/ipl.png)
+## 🚖 Uber Report
+**Description**: Analysis of Uber ride data, covering trip duration, locations, and user preferences.  
+**Dataset**: Trip and user statistics.  
+![Uber Report](Images/uber.png)
 
 ---
 
@@ -25,17 +18,24 @@ This repository contains a collection of Power BI reports showcasing data analys
 
 ---
 
-## 🚖 Uber Report
-**Description**: Analysis of Uber ride data, covering trip duration, locations, and user preferences.  
-**Dataset**: Trip and user statistics.  
-![Uber Report](Images/uber.png)
-
----
-
 ## 🦠 COVID-19 Country-wise Analysis
 **Description**: A detailed report on COVID-19 statistics, including case numbers, recovery rates, and regional impacts.  
 **Dataset**: Provided in the file `country_wise_latest.xlsx`.  
 ![COVID-19 Report](Images/covid.png)
+
+---
+
+## 🏏 IPL Report
+**Description**: Insights into Indian Premier League (IPL) data, including team performance, player statistics, and match outcomes.  
+**Dataset**: Includes match details, player stats, and team standings.  
+![IPL Report](Images/ipl.png)
+
+---
+
+## 📊 Global Superstore Report
+**Description**: Analysis of sales performance and trends across different regions, categories, and segments.  
+**Dataset**: Contains sales, profit, and shipping data.  
+![Global Superstore Report](Images/globalSuperstore.png)
 
 ---
 
